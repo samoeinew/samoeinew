@@ -41,17 +41,12 @@
 | **Data Analysis Projects** | Python & Pandas projects analyzing datasets | [GitHub](#) |
 | **NodeJS API** | REST API using NodeJS & MySQL | [GitHub](#) |
 
-*(Replace with your real projects and links)*
 
 ---
 
 ## 🌟 Status
-`💻 Coding Django & Python | Open for Collaboration!`  
+`💻 Coding Django, Python, JavaScript | Open for Collaboration!`  
 
-- Shows you're **active**, friendly, and approachable.  
-- Visitors immediately know what you're working on.
-
----
 
 ## 🌐 Connect with Me
 
