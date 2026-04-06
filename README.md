@@ -1,7 +1,14 @@
-# Hi there 👋, I'm Samoeinew
+# 👋 Hi, I'm Samoeinew
 
-I'm a passionate programmer and tech enthusiast exploring **C++, Python, NodeJS, Django**, and **data analysis**.  
-I love building projects, learning new technologies, and contributing to open-source.  
+💻 Passionate developer exploring **C++, Python, NodeJS, Django**, and **data analysis**.  
+🚀 I love building projects, contributing to open-source, and learning new technologies.  
+
+---
+
+## 🖼 Profile Pic & Banner
+- Use a **clear, centered avatar** (photo, cartoon, or tech-themed logo).  
+- Banner idea: a **gradient or tech/code theme** showing programming vibes.  
+- This combo instantly tells visitors who you are.
 
 ---
 
@@ -37,11 +44,19 @@ I love building projects, learning new technologies, and contributing to open-so
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Project 1** | Short description | [GitHub](#) |
-| **Project 2** | Short description | [GitHub](#) |
-| **Project 3** | Short description | [GitHub](#) |
+| **Portfolio Website** | My personal portfolio built with Django & Vercel | [GitHub](#) |
+| **Data Analysis Projects** | Python & Pandas projects analyzing datasets | [GitHub](#) |
+| **NodeJS API** | REST API using NodeJS & MySQL | [GitHub](#) |
 
-*(Replace with your actual projects and links)*
+*(Replace with your real projects and links)*
+
+---
+
+## 🌟 Status
+`💻 Coding Django & Python | Open for Collaboration!`  
+
+- Shows you're **active**, friendly, and approachable.  
+- Visitors immediately know what you're working on.
 
 ---
 
