@@ -5,13 +5,6 @@
 
 ---
 
-## 🖼 Profile Pic & Banner
-- Use a **clear, centered avatar** (photo, cartoon, or tech-themed logo).  
-- Banner idea: a **gradient or tech/code theme** showing programming vibes.  
-- This combo instantly tells visitors who you are.
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
